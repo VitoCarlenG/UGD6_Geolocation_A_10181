@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UGD6_A_10181</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoidml0b2NhcmxlbmciLCJhIjoiY2t1azA3c2Z4MzMyaDJwcTZiN2Fya2FleSJ9.OqgqfXvbDjQTUp9yBOIyow</string>
+    <string name="user_location_permission_explanation">Apakah diperbolehkan?</string>
+    <string name="user_location_permission_not_granted">Ditolak kalian semua</string>
+    <string name="street">Street</string>
+    <string name="dark">Dark</string>
+    <string name="light">Light</string>
+    <string name="outdoors">Outdoors</string>
+    <string name="satellite">Satellite</string>
+    <string name="satellite_streets">Satellite Streets</string>
+    <string name="start_navigation">START NAVIGATION</string>
+</resources>
